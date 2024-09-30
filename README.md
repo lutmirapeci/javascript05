@@ -1,7 +1,3 @@
-# BrainsterChallenges_LutmiraPeciFE3
-
-## Challenge-12
-
 # Exercise 01: Change Images
 
 ```
